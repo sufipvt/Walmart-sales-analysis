@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project analyzes Walmart transactional sales data using Python, Pandas, MySQL, and SQL to uncover business insights related to sales performance, customer behavior, revenue trends, and branch operations.
+This project analyzes Walmart transactional sales data using Python, Pandas, MySQL,  to uncover business insights related to sales performance, customer behavior, revenue trends, and branch operations.
 
 The project includes:
 - Data cleaning and preprocessing
